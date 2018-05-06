@@ -1,8 +1,8 @@
 # Thermocouple
-Thermocouple Calculator
-This program is designed for the user to determine the temperature based off a voltage on various thermocouples.
+Thermocouple Calculator is designed for the user to determine the temperature based off a voltage on various thermocouples.
 
 Getting Started
+
 You can use the entire program or select bits of code you need for your project.
 
 Contributing
